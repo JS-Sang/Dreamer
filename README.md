@@ -1,1 +1,2 @@
-# Dreamer
+# DreamerMapper
+DreamMapper consists of three main components: previous state - observed action coupling, dimensionality reduction of imagined states, and LIME analysis on the imagined states. All of the components are stratified by task and the time step in the training process, which are inputs the user can select. Through a simple, intuitive interface, non-expert users can better understand the inner workings of Model Based RL and, specifically, Dreamer. Below is a fullscreen image of DreamMapper.
